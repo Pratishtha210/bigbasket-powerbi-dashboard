@@ -33,9 +33,7 @@ This Power BI dashboard presents a comprehensive analysis of sales performance u
 
 ## File Structure
 - `bigbasket.dashboard.pbix` – Power BI project file
-  
-  > 📁 The Power BI `.pbix` file is available on request due to GitHub file size limits.  
-> Please contact me on [LinkedIn](http://www.linkedin.com/in/pratishtha25) or email me to get access.
+- [Project Link](https://drive.google.com/file/d/1_XAqxAMg2eO4ZxT4n3lPakx6GeJRr8ic/view?usp=drive_link) 
 
 ---
 
